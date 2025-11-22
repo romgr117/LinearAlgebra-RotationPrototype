@@ -11,7 +11,6 @@ This project creates an axis-aligned rectangle and rotates it by a specified ang
 - **.NET 10.0 (Windows)**
 - **MathNet.Numerics 5.0.0** - Used for matrix operations and linear algebra transformations
 - **ScottPlot 5.1.57** - Industry-standard plotting library for visualizing the rotation
-- **ScottPlot.WinForms 5.1.57** - Windows Forms integration for interactive plots
 
 ## Usage
 
